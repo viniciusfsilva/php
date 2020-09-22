@@ -1,1 +1,1 @@
-REPOSITÓRIO CRIADO PARA O CURSO DE PHP
+Repositório criado para o curso de PHP.
